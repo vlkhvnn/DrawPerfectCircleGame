@@ -13,6 +13,6 @@ The App gives an Error Alert if:
 2) It takes more than 10 seconds for a User to draw a circle
 3) The User is drawing a circle in a wrong way
 
-There is an indicator of the “correctness” and “quality” of the circle. It is calculated via the StandardDeviation formula and points array. Also, mathematical concepts such as GraphQuadrants (to indicate at which quadrant is a point) and Midpoints (to draw a line smoother). 
+There is an indicator of the “correctness” and “quality” of the circle. It is calculated via the StandardDeviation formula and points array. Also, mathematical concepts such as GraphQuadrants (to indicate at which quadrant is a point) and Midpoints (to draw a line smoother) were used.
 
 The color of the circle changes as the “quality” of the circle variates. (It is not implemented completely, only using the gradient color of the line). Meaning the overall color of the line changes instead of the specific points. But I tried my best! 
